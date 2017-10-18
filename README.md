@@ -1,1 +1,5 @@
 # Fingerprinting-on-the-web
+
+Abstract—Nowadays, companies such as Google [1] and Facebook [2] are present on most websites either through advertising services or through social plugins. They follow users around the web collecting information to create unique user profiles. This serious threat to privacy is a major cause for concern, as this reveals that there are no restrictions on the type of information that can be collected, the duration it can be stored, the people who can access it and the purpose of use or misuse. In order to determine if there indeed is any statistically significant evidence that fingerprinting occurs on certain web services, we integrated 2 software namely, FPBlock [5], a prototype browser extension that blocks web-based device fingerprinting, and AdFisher [9], an automated tool that sending out thousands of automated Web browser instances, in such a manner so that the data collected by FP-Block could be fed to AdFisher for analysis.
+
+#Paper - to - be -uploaded 
